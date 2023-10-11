@@ -1,0 +1,1 @@
+The purpose of this project is to gather data from kaggle using an API and then transform some of the datas into someting more meaningful.The data is about bike-sharing system and some of the parameters related to it (temperature, season, weather,etc...).The main purpose is to try predict the future bike shares
